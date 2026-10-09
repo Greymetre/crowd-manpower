@@ -12,6 +12,7 @@
         "php": "^8.2",
         "ext-dom": "*",
         "ext-fileinfo": "*",
+        "ext-gd": "*",
         "ext-iconv": "*",
         "ext-mbstring": "*",
         "ext-pdo_mysql": "*",
